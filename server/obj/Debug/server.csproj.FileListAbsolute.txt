@@ -1,0 +1,7 @@
+D:\SV-lab1\server\bin\Debug\server.exe.config
+D:\SV-lab1\server\bin\Debug\server.exe
+D:\SV-lab1\server\bin\Debug\server.pdb
+D:\SV-lab1\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\SV-lab1\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\SV-lab1\server\obj\Debug\server.exe
+D:\SV-lab1\server\obj\Debug\server.pdb

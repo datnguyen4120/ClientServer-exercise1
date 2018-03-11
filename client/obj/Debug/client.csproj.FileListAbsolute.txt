@@ -1,0 +1,7 @@
+D:\SV-lab1\client\bin\Debug\client.exe.config
+D:\SV-lab1\client\bin\Debug\client.exe
+D:\SV-lab1\client\bin\Debug\client.pdb
+D:\SV-lab1\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\SV-lab1\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\SV-lab1\client\obj\Debug\client.exe
+D:\SV-lab1\client\obj\Debug\client.pdb
